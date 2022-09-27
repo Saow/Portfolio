@@ -175,6 +175,7 @@ ul {
     
     margin-right: 5px;
     margin-bottom: 10px;
+    
    }
     
     
@@ -205,6 +206,7 @@ ul {
    }
    body {
     background-color: #474e5d;
+    overflow: hidden;
    }
    h1{
     color: white;
